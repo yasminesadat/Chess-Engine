@@ -1,7 +1,7 @@
 # Chess-Engine
-This project implements part of the chess engine to visualize and move pieces.
+This project implements part of the chess engine to visualize and move pieces using Haskel.
 
-Haskell's higher order functions play a key rule in checking legal moves on the chess board.
+Haskel's higher order functions play a key rule in checking legal moves on the chess board.
 
 
 To keep things simple, the project assumes the following:
